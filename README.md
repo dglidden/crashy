@@ -1,8 +1,8 @@
 # crashy
 a servlet that automatically crashes or logs some stuff to the servlet logs
 
-# building
+### building
 mvn package 
 
-# deploying
+### deploying
 copy war file to wherever
